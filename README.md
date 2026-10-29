@@ -1,16 +1,21 @@
-### Hi, I'm David 👋
+## David Immanuel Widagdo
 
-**Full-stack software engineer in Jakarta.** I design and ship backend and full-stack systems from zero to
-production, and I keep them running after launch.
+**Full-Stack Software Engineer · Jakarta, Indonesia**
 
-- 🛒 Today: building retail software at Sociolla, used by stores, warehouses, the company's cafe and its events.
-- 🏆 Named Best Engineer of the Quarter twice at SuperApp (YC W18), Q1 and Q3 2024.
-- ⚡ Brought average API response time under 100 ms with 90%+ test coverage.
-- 🤖 I run [Studio Bisnis](https://studiobisnis.com), setting up AI agents and websites for small businesses.
+I design, build and run backend and full-stack systems, from architecture to production monitoring.
+6+ years across SaaS, e-commerce and enterprise platforms, with 15+ projects delivered.
 
-**6+ years · 15+ projects · systems used by 1M+ app users and a payroll for up to 80,000 employees.**
+### Experience highlights
 
-#### What I work with
+- **Sociolla** (2025 - present): designed the foundation of a multi-tenant SaaS for digital price labels in retail
+  stores; built a warehouse truck and dock scheduling system; developing the internal POS system for the company's
+  cafe; built the live event app for its 11th anniversary (800+ employees).
+- **SuperApp, YC W18** (2022 - 2024): Best Engineer of the Quarter in Q1 and Q3 2024. Migrated services to NestJS,
+  bringing average API response time under 100 ms with 90%+ test coverage. Built the loyalty program for 1M+ users.
+- **Mayora Indah** (2020 - 2022): built the HR and payroll system for up to 80,000 employees.
+- **Studio Bisnis** (founder): AI agents and company websites for small businesses.
+
+### Technologies
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
@@ -30,13 +35,13 @@ production, and I keep them running after launch.
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/aws-dark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="36" height="36" /></picture>
 </p>
 
-Plus AI agents (Hermes, OpenClaw), LLM APIs (Claude, GPT, Gemini, DeepSeek) and AI coding tools
-(Claude Code, Codex, OpenCode).
+AI: agents (Hermes, OpenClaw), LLM APIs (Claude, GPT, Gemini, DeepSeek), AI-assisted development (Claude Code, Codex,
+OpenCode).
 
-#### Open to
+### Contact
 
-Senior or lead roles that mix hands-on engineering with technical direction and mentoring.
+Open to senior and lead engineering roles that combine hands-on delivery with technical direction and mentoring.
 
-🌐 [davidwidagdo.com](https://davidwidagdo.com) · 💼 [LinkedIn](https://www.linkedin.com/in/davidwidagdo/)
+[davidwidagdo.com](https://davidwidagdo.com) · [LinkedIn](https://www.linkedin.com/in/davidwidagdo/)
 
-<sub>Most of my work lives in private company repositories, so this profile shows little public code.</sub>
+<sub>Most of my work is in private company repositories, so little of it is public here.</sub>
