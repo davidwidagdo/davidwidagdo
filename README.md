@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer · Jakarta, Indonesia**
 
-I design, build and run backend and full-stack systems, from architecture to production monitoring.
+I design, build and run full-stack systems, from architecture to production monitoring.
 6+ years across SaaS, e-commerce and enterprise platforms, with 15+ projects delivered.
 
 ### Experience highlights
