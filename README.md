@@ -18,16 +18,16 @@ production, and I keep them running after launch.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt" title="Nuxt" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="36" height="36" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/nextjs-dark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="36" height="36" /></picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" title="Elasticsearch" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" width="36" height="36" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/kafka-dark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" width="36" height="36" /></picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="36" height="36" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/aws-dark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="36" height="36" /></picture>
 </p>
 
 Plus AI agents (Hermes, OpenClaw), LLM APIs (Claude, GPT, Gemini, DeepSeek) and AI coding tools
