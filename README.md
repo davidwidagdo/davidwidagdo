@@ -2,17 +2,18 @@
 
 **Full-Stack Software Engineer · Jakarta, Indonesia**
 
-I design, build and run full-stack systems, from architecture to production monitoring.
+I design, build and run backend and full-stack systems, from architecture to production monitoring.
 6+ years across SaaS, e-commerce and enterprise platforms, with 15+ projects delivered.
 
 ### Experience highlights
 
-- **Sociolla** (2025 - present): designed the foundation of a multi-tenant SaaS for digital price labels in retail
-  stores; built a warehouse truck and dock scheduling system; developing the internal POS system for the company's
-  cafe; built the live event app for its 11th anniversary (800+ employees).
-- **SuperApp, YC W18** (2022 - 2024): Best Engineer of the Quarter in Q1 and Q3 2024. Migrated services to NestJS,
+- **Sociolla** (2025 - present): designed the architecture and built the foundation of a multi-tenant SaaS for digital
+  price labels in retail stores; built a warehouse truck and dock scheduling system; developing the internal POS system
+  for the company's cafe; built the live event app for its 11th anniversary (800+ employees) and a prize-draw app for
+  company events.
+- **SuperApp, YC W18** (2022 - 2024): Best Engineer of the Quarter in Q1 and Q3 2024. Migrated services from Express to NestJS,
   bringing average API response time under 100 ms with 90%+ test coverage. Built the loyalty program for 1M+ users.
-- **Mayora Indah** (2020 - 2022): built the HR and payroll system for up to 80,000 employees.
+- **Mayora Indah** (2020 - 2022, contract): built the HR and payroll system for up to 80,000 employees.
 - **Studio Bisnis** (founder): AI agents and company websites for small businesses.
 
 ### Technologies
