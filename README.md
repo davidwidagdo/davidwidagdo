@@ -4,6 +4,8 @@
 
 I design, build and run backend and full-stack systems, from architecture to production monitoring.
 6+ years across SaaS, e-commerce and enterprise platforms, with 15+ projects delivered.
+I care about reliable systems, clear technical decisions, helping engineers grow, and practical uses of AI in software
+and engineering work.
 
 ### Experience highlights
 
@@ -39,9 +41,7 @@ I design, build and run backend and full-stack systems, from architecture to pro
 AI: agents (Hermes, OpenClaw), LLM APIs (Claude, GPT, Gemini, DeepSeek), AI-assisted development (Claude Code, Codex,
 OpenCode).
 
-### Contact
-
-Open to senior and lead engineering roles that combine hands-on delivery with technical direction and mentoring.
+### Links
 
 [davidwidagdo.com](https://davidwidagdo.com) · [LinkedIn](https://www.linkedin.com/in/davidwidagdo/)
 
